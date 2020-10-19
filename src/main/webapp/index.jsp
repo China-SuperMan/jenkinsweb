@@ -11,6 +11,6 @@
     <title>jenkinsweb</title>
 </head>
 <body>
-<h1>jenkins持续集成！！！!!!!!!</h1>
+<h1>jenkins持续集成</h1>
 </body>
 </html>
